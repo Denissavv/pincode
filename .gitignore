@@ -1,0 +1,7 @@
+node_modules
+assets
+.expo
+vcs.xml
+settings.json
+pincode.iml
+modules.xml
